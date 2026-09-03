@@ -62,6 +62,7 @@ I'm a Computer Science Engineering student (AI & ML specialization) at **VIT Bho
 <p align="left">
   <!-- Replace 'YOUR_SPOTIFY_USERNAME' with your actual Spotify username -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=Tathafloyd&count=2" alt="Spotify Recently Played" />
+  ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31oh3orfg4sc5ba5rgaucrhnk7mm)
 </p>
 
 ---

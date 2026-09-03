@@ -68,11 +68,11 @@ I'm a Computer Science Engineering student (AI & ML specialization) at **VIT Bho
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tatha07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tatha07&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatha07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+ 
 </p>
 
 ---

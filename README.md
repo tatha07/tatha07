@@ -61,18 +61,18 @@ I'm a Computer Science Engineering student (AI & ML specialization) at **VIT Bho
 ### Currently Vibing To
 <p align="left">
   <!-- Replace 'YOUR_SPOTIFY_USERNAME' with your actual Spotify username -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=2" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Tathafloyd&count=2" alt="Spotify Recently Played" />
 </p>
 
 ---
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tathagato2007&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tathagato2007&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tatha07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tatha07&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tathagato2007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatha07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

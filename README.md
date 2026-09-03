@@ -41,10 +41,10 @@ I'm a Computer Science Engineering student (AI & ML specialization) at **VIT Bho
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Spotit](#)**  | A civic issue reporting portal with User/Admin dashboards. Users post & upvote issues (e.g., broken streetlights), and admins verify via images. *Planned: Deepfake detection & OpenCV integration.* | React.js, Node.js, OpenCV (Planned) |
-| **[UMA](#)**  | AI-powered platform bringing maternal and child healthcare to remote communities in India. Bridges the gap between patients and timely medical guidance via intelligent symptom detection. | HTML5, CSS3, Vanilla JS, AI |
-| **[SDC Brandkit](#)**  | A working networking app/brandkit built for the Software Development Club to enhance community engagement. | React.js |
-| **[DSA-Instructor Bot](#)**  | A Node.js backend with dual frontend interfaces, exposing an `/api/ask` endpoint integrated with a GenAI model via `@google/genai` SDK. | Node.js, GenAI SDK, JS |
+| **[Spotit](https://spotitmain.vercel.app/)**  | A civic issue reporting portal with User/Admin dashboards. Users post & upvote issues (e.g., broken streetlights), and admins verify via images. *Planned: Deepfake detection & OpenCV integration.* | React.js, Node.js, OpenCV (Planned) |
+| **[UMA](https://uma-website-rosy.vercel.app/)**  | AI-powered platform bringing maternal and child healthcare to remote communities in India. Bridges the gap between patients and timely medical guidance via intelligent symptom detection. | HTML5, CSS3, Vanilla JS, AI |
+| **[SDC Brandkit](https://sdcmain.vercel.app/)**  | A working networking app/brandkit built for the Software Development Club to enhance community engagement. | React.js |
+| **[DSA-Instructor Bot](https://algomentor-ehbg.onrender.com/)**  | A Node.js backend with dual frontend interfaces, exposing an `/api/ask` endpoint integrated with a GenAI model via `@google/genai` SDK. | Node.js, GenAI SDK, JS |
 
 *(Note: Replace the `#` in the links above with your actual GitHub repo or live demo links!)*
 

@@ -51,7 +51,7 @@ I'm a Computer Science Engineering student (AI & ML specialization) at **VIT Bho
 ---
 
 ###  Experience
-- **Core Member** @ *Software Development Club, VIT Bhopal* (Nov 2025 – Present)  
+- **Co-Lead Teachnical Team** @ *Software Development Club, VIT Bhopal* (Nov 2025 – Present)  
   Building networking apps and the official SDC Brandkit.
 - **Frontend Intern** @ *ZITO Logistics* (Remote)  
   Fixed critical UI/UX bugs, improved application responsiveness, and implemented a recommendation city feature for customers.
